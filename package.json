@@ -1,0 +1,14 @@
+{
+  "name": "canvas-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "serve": "^12.0.0"
+  }
+}
